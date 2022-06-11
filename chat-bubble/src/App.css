@@ -1,0 +1,9 @@
+
+
+.App {
+  background-color: midnightblue;
+  width: 1920px;
+  height: 1080px;
+  display: flex;
+  flex-direction: column-reverse;
+}
